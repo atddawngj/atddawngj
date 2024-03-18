@@ -6,11 +6,8 @@
 --->
 </em></p>
 
-<!---
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
---->
 [![Twitter: atddawngj](https://img.shields.io/twitter/follow/atddawngj?style=social)](https://twitter.com/atddawngj)
+[![Linkedin: An Dang](https://img.shields.io/badge/-atddawngj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atddawngj/)](https://www.linkedin.com/in/atddawngj/)
 [![GitHub atddawngj](https://img.shields.io/github/followers/atddawngj?label=follow&style=social)](https://github.com/atddawngj)
 
 
