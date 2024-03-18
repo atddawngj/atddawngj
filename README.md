@@ -26,7 +26,7 @@ const atddawngj = {
         devOps: ["Docker🐳"],
     },
     currentFocus: "Learn Cybersecurity",
-    hobbies: [gaming, pentesting, sleep]
+    hobbies: ["gaming", "pentesting", "sleep"],
     funFact: "I use Arch BTW",
 }
 ```
